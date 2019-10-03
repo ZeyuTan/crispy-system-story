@@ -1,2 +1,1 @@
-Character: Zeyu Tan
-Zeyu Tan is a student learning at UW Madison. Now he is doing CS400 homework...
+Zeyu Tan is a student of UW Madison and he is doing his CS400 HW.
